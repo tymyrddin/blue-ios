@@ -20,7 +20,6 @@ A noted approach is to put malware up on sites labelled as something people want
  
 Download and torrent only from trusted sources and [check the integrity of downloads](data-mitigations:docs/filetransfer/Checking-integrity-of-downloads). 
 
-
 ## Fail
 
 Can happen of course. [Clean machine](../malware/README.md).
