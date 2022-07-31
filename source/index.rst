@@ -30,6 +30,7 @@ further pentesting, after which these mitigations will be updated.
    docs/services/bluetooth.md
    docs/services/profiles.md
    docs/services/autojoin.md
+   docs/services/vpn.md
    docs/services/browsers.md
    docs/services/change-browser.md
    docs/services/messaging.md

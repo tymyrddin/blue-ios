@@ -6,6 +6,7 @@
 * [Block apps from accessing Bluetooth data](bluetooth.md)
 * [Check for unknown configuration profiles](profiles.md)
 * [Do not auto-join Wi-Fi networks](autojoin.md)
+* [Use a VPN service](vpn.md)
 * [Secure browsers that protect your privacy](browsers.md)
 * [Change your browser app](change-browser.md)
 * [Use a secure messaging service](messaging.md)
