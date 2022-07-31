@@ -34,6 +34,7 @@ further pentesting, after which these mitigations will be updated.
    docs/services/browsers.md
    docs/services/change-browser.md
    docs/services/messaging.md
+   docs/services/email-services.md
 
 .. toctree::
    :glob:
@@ -51,7 +52,9 @@ further pentesting, after which these mitigations will be updated.
    :caption: Privacy
 
    docs/privacy/README.md
-   docs/privacy/*
+   docs/privacy/spam.md
+   docs/privacy/search-engine.md
+   docs/privacy/email-use.md
 
 .. toctree::
    :glob:
@@ -71,7 +74,8 @@ further pentesting, after which these mitigations will be updated.
    :caption: Social engineering
 
    docs/social-engineering/README.md
-   docs/social-engineering/*
+   docs/social-engineering/browsing.md
+   docs/social-engineering/check-mail.md
 
 .. toctree::
    :caption: Links
