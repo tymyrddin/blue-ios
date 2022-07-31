@@ -8,3 +8,9 @@
 * [Do not auto-join Wi-Fi networks](autojoin.md)
 * [Secure browsers that protect your privacy](browsers.md)
 * [Change your browser app](change-browser.md)
+
+## Related attack trees
+
+* [System](attack-trees:docs/system/README)
+* [Malware](attack-trees:docs/malware/README)
+* [E2EE threat model](https://tymyrddin.github.io/e2ee-threat-model/)
