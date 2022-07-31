@@ -8,6 +8,7 @@
 * [Do not auto-join Wi-Fi networks](autojoin.md)
 * [Secure browsers that protect your privacy](browsers.md)
 * [Change your browser app](change-browser.md)
+* [Use a secure messaging service](messaging.md)
 
 ## Related attack trees
 

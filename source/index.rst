@@ -29,6 +29,7 @@ iOS mitigations
    docs/services/autojoin.md
    docs/services/browsers.md
    docs/services/change-browser.md
+   docs/services/messaging.md
 
 .. toctree::
    :glob:
