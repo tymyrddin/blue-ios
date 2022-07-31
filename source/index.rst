@@ -8,7 +8,11 @@ iOS mitigations
    :caption: Accounts and authentication
 
    docs/authentication/README.md
-   docs/authentication/*
+   docs/authentication/sim-pin.md
+   docs/authentication/unlock.md
+   docs/authentication/password-reuse.md
+   docs/authentication/passwords.md
+   docs/authentication/mfa.md
 
 .. toctree::
    :glob:
@@ -17,7 +21,14 @@ iOS mitigations
    :caption: Services and applications
 
    docs/services/README.md
-   docs/services/*
+   docs/services/juice-jack.md
+   docs/services/audit-and-block.md
+   docs/services/uap.md
+   docs/services/bluetooth.md
+   docs/services/profiles.md
+   docs/services/autojoin.md
+   docs/services/browsers.md
+   docs/services/change-browser.md
 
 .. toctree::
    :glob:
@@ -44,6 +55,7 @@ iOS mitigations
    :caption: Malware
 
    docs/malware/README.md
+   docs/malware/scanner.md
    docs/malware/clean-machine.md
    docs/malware/analysing-trojans.md
 

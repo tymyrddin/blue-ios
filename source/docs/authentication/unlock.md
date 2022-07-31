@@ -7,8 +7,13 @@ Touch ID or Face ID.
 
 In addition, for all people in all countries, raw biometrics data in the form of fingerprints, face scans or voice 
 recognition, for example, is analog data until a biometric system converts it to digital data that a computer can then 
-process. This data must be stored somewhere. The convenience of biometric authentication is only worthwhile as long as the data being stored remains secure and 
-untapped. For single-user devices, like an iPhone, this data can be stored on the local device.
+process. This data must be stored somewhere. The convenience of biometric authentication is only worthwhile as long as 
+the data being stored remains secure and untapped. For single-user devices, like an iPhone, this data can be stored on 
+the local device. 
+
+** If data is stored somewhere, it could potentially get stolen. If the worst happens and your PIN 
+or password get stolen, you can easily change them. What are you going to do if your fingerprint or Iris scan get 
+stolen?**
 
 Apple can promise to ensure no one, not even Apple itself, has rights to access the biometric data. Unless the iPhone 
 gets hacked of course. Even if that were extremely hard, identity is the most significant and valuable possession and 
