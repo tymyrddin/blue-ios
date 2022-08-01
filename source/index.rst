@@ -30,11 +30,12 @@ further pentesting, after which these mitigations will be updated.
    docs/services/bluetooth.md
    docs/services/profiles.md
    docs/services/autojoin.md
-   docs/services/vpn.md
    docs/services/browsers.md
    docs/services/change-browser.md
    docs/services/messaging.md
    docs/services/email-services.md
+   docs/services/vpn.md
+   docs/services/tor-proxy.md
 
 .. toctree::
    :glob:
@@ -54,7 +55,6 @@ further pentesting, after which these mitigations will be updated.
    docs/privacy/README.md
    docs/privacy/spam.md
    docs/privacy/search-engine.md
-   docs/privacy/email-use.md
 
 .. toctree::
    :glob:
@@ -71,11 +71,21 @@ further pentesting, after which these mitigations will be updated.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Social engineering
+   :caption: Operations security
 
-   docs/social-engineering/README.md
-   docs/social-engineering/browsing.md
-   docs/social-engineering/check-mail.md
+   docs/opsec/README.md
+   docs/opsec/email-use.md
+   docs/opsec/check-mail.md
+   docs/opsec/browsing.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Guards! Guards!
+
+   docs/guards/README.md
+   docs/guards/lockdown.md
 
 .. toctree::
    :caption: Links
