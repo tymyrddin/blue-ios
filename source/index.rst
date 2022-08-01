@@ -34,6 +34,7 @@ further pentesting, after which these mitigations will be updated.
    docs/services/change-browser.md
    docs/services/messaging.md
    docs/services/email-services.md
+   docs/services/ssh.md
    docs/services/vpn.md
    docs/services/tor-proxy.md
 

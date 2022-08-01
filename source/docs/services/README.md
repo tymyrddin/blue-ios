@@ -10,6 +10,7 @@
 * [Change your browser app](change-browser.md)
 * [Use a secure messaging service](messaging.md)
 * [Use a secure email service](email-services.md)
+* [Use SSH tunnels](ssh.md)
 * [Use a VPN service](vpn.md)
 * [Use a Tor proxy](tor-proxy.md)
 
