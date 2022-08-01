@@ -24,12 +24,10 @@ further pentesting, after which these mitigations will be updated.
    :caption: Services and applications
 
    docs/services/README.md
-   docs/services/juice-jack.md
    docs/services/audit-and-block.md
    docs/services/uap.md
    docs/services/bluetooth.md
    docs/services/profiles.md
-   docs/services/autojoin.md
    docs/services/browsers.md
    docs/services/change-browser.md
    docs/services/messaging.md
@@ -75,6 +73,8 @@ further pentesting, after which these mitigations will be updated.
    :caption: Operations security
 
    docs/opsec/README.md
+   docs/opsec/juice-jack.md
+   docs/opsec/autojoin.md
    docs/opsec/email-use.md
    docs/opsec/check-mail.md
    docs/opsec/browsing.md
