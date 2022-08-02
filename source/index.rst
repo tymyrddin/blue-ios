@@ -35,6 +35,8 @@ further pentesting, after which these mitigations will be updated.
    docs/services/ssh.md
    docs/services/vpn.md
    docs/services/tor-proxy.md
+   docs/services/change-mac.md
+   docs/services/edit-hosts-file.md
 
 .. toctree::
    :glob:
