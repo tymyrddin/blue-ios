@@ -79,6 +79,7 @@ further pentesting, after which these mitigations will be updated.
    docs/opsec/check-mail.md
    docs/opsec/browsing.md
    docs/opsec/ooni.md
+   docs/opsec/*
 
 .. toctree::
    :glob:
