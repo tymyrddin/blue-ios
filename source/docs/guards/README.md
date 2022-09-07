@@ -11,4 +11,4 @@ location, shopping times, work hours, sleep patterns and even passwords.
 * [Scanning](attack-trees:docs/scanning/README)
 * [Malware](attack-trees:docs/malware/README)
 * [System](attack-trees:docs/system/README)
-* [Network](attack-trees:docs/network/README)
+* [Network](red-network:index)
