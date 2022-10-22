@@ -20,4 +20,3 @@ SSH tunnels can be created in several ways using different kinds of port forward
 On iOS you can use Terminus, a terminal & SSH client.
 
 * [App Store Termius: Terminal & SSH client](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908)
-* [Linux mitigations: Use SSH tunnels](linux-pc-mitigations:docs/services/ssh)

@@ -13,9 +13,3 @@
 * [Use a Tor proxy](tor-proxy.md)
 * [Change MAC address](change-mac.md)
 * [Edit hosts file](edit-hosts-file.md)
-
-## Related attack trees
-
-* [System](attack-trees:docs/system/README)
-* [Malware](attack-trees:docs/malware/README)
-* [E2EE threat model](https://tymyrddin.github.io/e2ee-threat-model/)
