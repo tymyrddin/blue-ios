@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'iOS mitigations'
+project = 'Hardening iOS'
 copyright = '2022, TyMyrddin'
 author = 'TyMyrddin'
 release = '0.1'
@@ -43,7 +43,7 @@ html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
-    'style_external_links': True,
+    'style_external_links': False,
     # Toc options
     'collapse_navigation': False,
     'sticky_navigation': False,
@@ -52,7 +52,7 @@ html_theme_options = {
     'titles_only': True
 }
 
-html_title = "iOS mitigations"
+html_title = "Hardening iOS"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 
