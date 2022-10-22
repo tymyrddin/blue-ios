@@ -1,8 +1,8 @@
 Hardening iOS
 ===========================================
 
-Version 0.1: Keeping it as simple as possible, as iOS does too. iOS evolves fast. An old and new iPhone are underway for
-further pentesting, after which these mitigations will be updated.
+Keeping it as simple as possible. iOS evolves fast. An old and new iPhone are underway for
+further pentesting, after which these mitigations will be updated (when we have time).
 
 .. toctree::
    :glob:
