@@ -1,7 +1,7 @@
 # iOS mitigations
 
-![Publish iOS mitigations using Sphinx](https://github.com/tymyrddin/ios-mitigations/workflows/Publish%20iOS%20mitigations%20using%20Sphinx/badge.svg?branch=main)
- Deployed: https://tymyrddin.github.io/ios-mitigations/
+![Publish iOS mitigations using Sphinx](https://github.com/tymyrddin/blue-ios/workflows/Publish%20iOS%20mitigations%20using%20Sphinx/badge.svg?branch=main)
+ Deployed: https://tymyrddin.github.io/blue-ios/
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
@@ -26,7 +26,8 @@ $ make html
 
 This project welcomes contributions and suggestions. 
 
-[Open an issue here](https://github.com/tymyrddin/ios-mitigations/issues)
+[Open an issue here](https://github.com/tymyrddin/blue-ios/issues)
 
 ## Mind
-Where you stand depends on where you sit, and all threats are cross-vector threats. Without a clear mandate for testing, measuring and reporting actual improvements in security, attempts at improving security makes absolutely no sense, not even for the low-hanging fruit.  
+
+Let's just say that if complete and utter chaos was lightning, he'd be the sort to stand on a hilltop in a thunderstorm wearing wet copper armour and shouting 'All gods are bastards'. ~ TP
