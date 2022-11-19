@@ -29,3 +29,7 @@ a:hover {
   padding: 6px 12px;
   border-color: #0066DD;
 }
+
+.rst-content code.literal, .rst-content tt.literal {
+  color: #0066DD;
+}
