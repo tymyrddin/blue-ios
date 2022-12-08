@@ -95,6 +95,6 @@ further pentesting, after which these mitigations will be updated (when we have 
 .. toctree::
    :caption: Links
 
-   All mitigations <https://tymyrddin.github.io/mitigations/>
+   All mitigations <https://blue.tymyrddin.dev/>
 
 
