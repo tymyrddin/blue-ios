@@ -91,10 +91,3 @@ further pentesting, after which these mitigations will be updated (when we have 
 
    docs/guards/README.md
    docs/guards/lockdown.md
-
-.. toctree::
-   :caption: Links
-
-   All mitigations <https://blue.tymyrddin.dev/>
-
-
