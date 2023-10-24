@@ -6,7 +6,6 @@ Intent is to make videos and posters, self-assessments, and simulations, to buil
 * [Don't get juice-jacked](juice-jack.md)
 * [Do not auto-join Wi-Fi networks](autojoin.md)
 * [Use email securely](email-use.md)
-* [Detecting fake emails and phishing](check-mail.md)
 * [Browse more safely](browsing.md)
 * [';--have i been pwned?](hibp.md)
 * [Measure Internet Censorship](ooni.md)
