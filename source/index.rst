@@ -66,7 +66,6 @@ further pentesting, after which these mitigations will be updated (when we have 
    docs/malware/README.md
    docs/malware/scanner.md
    docs/malware/clean-machine.md
-   docs/malware/analysing-trojans.md
 
 .. toctree::
    :glob:

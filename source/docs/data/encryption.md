@@ -4,7 +4,7 @@ Apple’s iPhone, iPod touch, and iPad smart devices all support basic built-in 
 
 To enable encryption:
 
-* Settings -> Face ID & Passcode
+* ***Settings -> Face ID & Passcode***
 * Make sure passcode is enabled.
 * Data protection is enabled should be displayed at the bottom of the Face ID & Passcode screen.
 
