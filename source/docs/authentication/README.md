@@ -1,7 +1,7 @@
 # Introduction
 
-* [Use a SIM PIN](sim-pin.md)
-* [Unlock with a password](unlock.md)
-* [Audit and change password reuse](password-reuse.md)
-* [Automagically create strong passwords](passwords.md)
-* [Use multi-factor authentication (MFA)](mfa.md)
+* [Using a SIM PIN](sim-pin.md)
+* [Touch ID and Face ID?](unlock.md)
+* [Auditing and changing password reuse](password-reuse.md)
+* [Automagically creating strong passwords](passwords.md)
+* [Using multifactor authentication (MFA)](mfa.md)

@@ -1,4 +1,4 @@
-# Use email securely
+# Using email more securely
 
 * Do not use public computers to access email with sensitive information.
 * If you are not in a safe neighbourhood, [use a VPN](../services/vpn.md) or [Tor anonymity network](../services/tor-proxy.md) to encrypt traffic 

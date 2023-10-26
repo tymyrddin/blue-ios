@@ -1,5 +1,5 @@
 # Introduction
 
-* [Encrypt the data](encryption.md)
-* [Worst case, nuke all data](nuke.md)
+* [Encrypting the data](encryption.md)
+* [Worst case, nuking all data](nuke.md)
 

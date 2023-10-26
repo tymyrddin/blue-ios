@@ -1,11 +1,8 @@
-# Remove unwanted third party apps (UAPs)
+# Unwanted third party apps (UAPs)
 
-Everything typed on your iOS smartphone goes through your keyboard. This means the keyboard has access to 
-those passwords, private emails, documents, and SMS messages you type on your phone. It can even see your credit card 
-information. The perfect Trojan Horse.
+Everything typed on your iOS smartphone goes through your keyboard. This means the keyboard has access to those passwords, private emails, documents, and SMS messages you type on your phone. It can even see your credit card information. The perfect Trojan Horse.
 
-The Apple Store is not as riddled with bad actors as the Google Play Store, but sometimes malicious apps do sneak in. 
-Keep yourself informed and research each app thorougly before installing.
+Sometimes malicious apps do sneak in, into the Apple Store, so keep yourself informed and research each app before installing.
 
 ## Articles
 

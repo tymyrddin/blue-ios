@@ -1,4 +1,4 @@
-# Audit and block the access apps have to data and devices
+# Auditing and blocking the access apps have
 
 When considering if an app should continue to have access to certain types of your data or hardware, ask yourself if 
 you use features in that app that requires such access? If you never check yourself into places in Facebook, why should 

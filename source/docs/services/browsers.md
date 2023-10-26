@@ -1,4 +1,4 @@
-# Secure browsers that protect your privacy
+# Browsers that protect your privacy
 
 * [DuckDuckGo Private Browser](https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361?pt=866401&mt=8) offers seamless protection while you search and browse - plus access to free tracking protection for your email inbox, secure password management, new beta features, and more.
 * [Brave](https://brave.com/) is fast, secure, and privacy-focused by default. It has a built-in ad blocker and browser fingerprinting protection, while also giving you access to numerous add-ons and extensions.
