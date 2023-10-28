@@ -67,6 +67,7 @@ further pentesting, after which these mitigations will be updated (when we have 
    docs/opsec/threats.md
    docs/malware/scanner.md
    docs/malware/clean-machine.md
+   docs/malware/ransomware.md
 
 .. toctree::
    :glob:
