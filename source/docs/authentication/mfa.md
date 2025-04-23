@@ -6,4 +6,4 @@ MFA (alias 2FA) is a pain involving hopping back and forth and copying and pasti
 
 Security code autofill is built-in, so there is no need to enable it. You will need to enable 2FA on any apps or websites you want to use the security feature with. Enable 2FA on every social media and financial site you use. 
 
-***Note that [MFA bypasses](https://pap.tymyrddin.dev/docs/notes/mfa) are becoming "common".***
+***Note that [MFA bypasses](https://pap.tymyrddin.dev/docs/independent/mfa) are becoming "common".***
